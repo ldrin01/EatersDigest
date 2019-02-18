@@ -1,0 +1,138 @@
+h2 {
+  color: black;
+  font-size: 50px;
+}
+
+/* start templatemo about */
+#about
+{
+  background-image: url("cherry-fresh-texture-image-background-food-wallpaper.jpg");
+  color: #fff;
+  padding: 60px 0 60px 0;
+}
+#about h2
+{
+  font-weight: 400;
+#about .col-md-12 { padding: 20px 0 0 0; }
+  padding: 0 0 20px 0;
+}
+#about h4
+{
+  font-weight: 600;
+  padding-top: 6px;
+  padding-bottom: 10px;
+}
+#about .skills { padding-top: 30px; }
+#about .progress
+{
+  background: #999;
+  height: 6px;
+  margin: 10px 0 16px 0;
+}
+#about .progress .progress-bar-success { background: #ffa400; }
+/* end templatemo about */
+
+/* start templatemo team */
+
+a { color: #ffa400; }
+a:hover, a:active 
+{
+  color: #f1e1e1;
+  text-decoration: none;
+}
+/* end templatemo contact */
+
+/* start templatemo footer */
+footer
+{
+  border-top: 1px solid #404040;
+  background: #202020;
+  color: #FFF;
+  padding: 80px 0 40px 0;
+}
+footer .social_icon a
+{
+  border: 1px solid #FFF;
+  border-radius: 50%;
+  color: #FFF;
+  font-size: 16px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  margin: 0 4px 24px 6px;
+}
+footer .social_icon a:hover
+{
+  border-color: transparent;
+  background: #fe1e1e;
+}
+
+a.button 
+{
+  font-size: 20px;
+  font-weight: 600;
+  float: left;
+  color: white;
+  display: inline-block;
+  text-decoration: none;
+  padding-top: 10px;
+  margin-top: 35px;
+  margin-left: 15px;
+  width: 280px; height: 50px; 
+  -webkit-border-radius: 5px; 
+  -moz-border-radius: 5px; 
+  border-radius: 5px; 
+  background-color: #3a57af; 
+  -webkit-box-shadow: 0 3px rgba(58,87,175,.75); 
+  -moz-box-shadow: 0 3px rgba(58,87,175,.75); 
+  box-shadow: 0 3px rgba(58,87,175,.75);
+  transition: all 0.1s linear 0s; 
+  top: 0px;
+  position: relative;
+}
+
+a.button:hover 
+{
+  top: 6px;
+  background-color:#2e458b;
+  -webkit-box-shadow: none; 
+  -moz-box-shadow: none; 
+  box-shadow: none;  
+}
+
+/* starttemplatemo  go top */
+.go-top 
+{
+  background-color: #ffa400;
+  border-radius: 50%;
+  bottom: 2em;
+  right: 2em;
+  color: #FFF;
+  display: none;
+  position: fixed;
+  text-decoration: none;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+}
+
+.go-top:hover 
+{
+  color: #F9F9F9;
+}
+
+#triviafont {
+  font-family: triviafont;
+}
+
+@font-face {
+    font-family: triviafont;
+    src: url("fonts/new chickfila.ttf");
+}
+
+
